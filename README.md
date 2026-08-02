@@ -7,7 +7,7 @@ I build practical tools for developers and AI agents. My recent work sits where 
 <p>
   <a href="https://github.com/maplezzk?tab=repositories"><img src="https://img.shields.io/badge/Projects-0B1020?style=flat-square&logo=github&logoColor=white" alt="Projects" /></a>
   <a href="https://github.com/maplezzk/llm-proxy"><img src="https://img.shields.io/github/stars/maplezzk/llm-proxy?style=flat-square&label=llm-proxy&color=34D399" alt="llm-proxy stars" /></a>
-  <a href="https://github.com/maplezzk/pi-extensions"><img src="https://img.shields.io/github/actions/workflow/status/maplezzk/pi-extensions/ci.yml?style=flat-square&label=pi-extensions%20CI" alt="pi-extensions CI" /></a>
+  <a href="https://github.com/maplezzk/pi-extensions"><img src="https://img.shields.io/github/stars/maplezzk/pi-extensions?style=flat-square&label=pi-extensions&color=34D399" alt="pi-extensions stars" /></a>
 </p>
 
 ## What I am working on
