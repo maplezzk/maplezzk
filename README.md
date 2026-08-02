@@ -74,7 +74,7 @@ Before working on AI and developer tooling, I built Java services, web applicati
 ## Find me
 
 - GitHub: [github.com/maplezzk](https://github.com/maplezzk)
-- Email: [34745236+maplezzk@users.noreply.github.com](mailto:34745236+maplezzk@users.noreply.github.com)
+- Email: [zhangzikuan4513@gmail.com](mailto:zhangzikuan4513@gmail.com)
 
 <p>
   <sub>Build useful things. Keep the edges sharp.</sub>
