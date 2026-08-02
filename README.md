@@ -37,11 +37,6 @@ I build practical tools for developers and AI agents. My recent work sits where 
       <p>A CLI for managing MCP servers, discovering tools, executing calls, and keeping persistent connections through daemon mode.</p>
       <code>TypeScript</code> <code>MCP</code> <code>CLI</code>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/maplezzk/c-compiler">c-compiler</a></h3>
-      <p>A learning project that walks through the main compiler stages, from lexical analysis and parsing to intermediate code and target code generation.</p>
-      <code>JavaScript</code> <code>Vue</code> <code>Compilers</code>
-    </td>
   </tr>
 </table>
 
@@ -70,7 +65,7 @@ Ship, observe, and improve
 
 ## Earlier projects
 
-Before working on AI and developer tooling, I built Java services, web applications, a C compiler, and small games. The projects are different, but the thread is the same: learn by building systems end to end.
+Before working on AI and developer tooling, I built Java services, web applications, and small games. The projects are different, but the thread is the same: learn by building systems end to end.
 
 - [JavaGame](https://github.com/maplezzk/JavaGame), a collection of Java games including 2048, Snake, Tetris, and Plane War.
 - [bitbyte](https://github.com/maplezzk/bitbyte), a Java Spring Cloud backend for a computer science blog.
